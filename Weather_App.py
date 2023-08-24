@@ -51,4 +51,4 @@ lower_frame.place(relx=0.5, rely=0.25, relwidth=0.75, relheight=0.6, anchor='n')
 label = tk.Label(lower_frame, font=('Berlin Sans FB', 25), anchor='nw', justify='left', bd=4)
 label.place(relwidth=1, relheight=1)
 
-# root.mainloop()
+root.mainloop()
